@@ -10,6 +10,7 @@ func main() {
 	for _, v := range sli {
 		tree = AddTree(tree, v)
 	}
+	fmt.Println(tree)
 	sli2 := []int{}
 	sli2 = SortTree(tree, sli2)
 	fmt.Println(sli2)
