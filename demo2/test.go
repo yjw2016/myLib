@@ -2,7 +2,7 @@
 /*
 这是一个区块注释
 */
-package demo2
+package main
 
 import "fmt"
 

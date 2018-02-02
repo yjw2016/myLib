@@ -1,4 +1,4 @@
-package demo2
+package main
 /*
   map(字典)是golang内置类型，不像java一样需要通过HashMap这种非语言级别的数据结构做支撑。
   golang底层通过Hash数据结构实现了map。

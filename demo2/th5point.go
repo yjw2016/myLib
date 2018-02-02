@@ -1,4 +1,4 @@
-package demo2
+package main
 
 /*
   指针：保存变量所在的内存地址
